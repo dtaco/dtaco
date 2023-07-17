@@ -10,12 +10,9 @@ As I embark on this new journey, I'm thrilled to combine my expertise in languag
 Frontend development has become my playground, and I thrive on HTML, CSS, and JavaScript. I'm proficient in ReactJS for building dynamic user interfaces and Redux for efficient state management. Python is my go-to language for backend development.
 
 Tech Stack: 
-<img src="https://your-image-directory/html-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="20" height="20" /> HTML
-<img src="https://your-image-directory/css-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="20" height="20" /> CSS
-<img src="https://your-image-directory/javascript-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="20" height="20" /> JavaScript
-<img src="https://your-image-directory/react-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20" /> ReactJS
-<img src="https://your-image-directory/redux-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20" height="20" /> Redux
-<img src="https://your-image-directory/python-icon.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="Python" width="20" height="20" /> Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+          
 
 📚 Continuous Learning
 As an avid lifelong learner, I embrace challenges and stay up to date with the latest trends in frontend development, edtech, and language learning. I actively participate in coding communities, attend webinars, and contribute to open-source projects to grow both personally and professionally.
