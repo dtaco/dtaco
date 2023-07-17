@@ -1,4 +1,4 @@
-👋 Hello, world! I'm David, an ESL Professor turned Frontend Web Developer and Edtech Software Engineer based in sunny Florida ☀️
+👋 Hello, world! I'm David Tacoronte, an ESL Professor turned Frontend Web Developer and Edtech Software Engineer based in sunny Florida ☀️
 
 🌟 About Me
 I'm a passionate language enthusiast with nearly eleven years of experience in the exciting field of ESL/EFL/TESOL education. Having dedicated myself to teaching English as a second language, I've honed my skills in crafting engaging curricula and fostering effective learning environments. However, my insatiable curiosity and love for technology have led me on an exciting transition into the realm of frontend web development and edtech software engineering.
@@ -7,12 +7,15 @@ I'm a passionate language enthusiast with nearly eleven years of experience in t
 As I embark on this new journey, I'm thrilled to combine my expertise in language instruction with my newfound skills in coding and software development. My goal is to create innovative and user-friendly educational tools that empower learners worldwide, breaking down language barriers and fostering a love for learning in the digital age.
 
 💻 Tech Stack & Skills
-Frontend development has become my playground, and I thrive on HTML, CSS, and JavaScript. I'm proficient in ReactJS for building dynamic user interfaces and Redux for efficient state management. Python is my go-to language for backend development.
+Frontend development has become my playground, and I thrive on:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20" /> HTML5
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20" /> CSS3
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" /> JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" /> ReactJS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20" /> Redux
 
-Tech Stack: 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-          
+My backend skills include:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> Python
 
 📚 Continuous Learning
 As an avid lifelong learner, I embrace challenges and stay up to date with the latest trends in frontend development, edtech, and language learning. I actively participate in coding communities, attend webinars, and contribute to open-source projects to grow both personally and professionally.
