@@ -1,10 +1,10 @@
-👋 Hello, world! I'm David Tacoronte, an ESL Professor turned Frontend Web Developer and Edtech Software Engineer based in sunny Florida ☀️
+Hello, world! I'm David Tacoronte, a college professor turned into a web developer (with a side of IT and cybersec, too.)☀️
 
 ## 🌟 About Me
-I'm a passionate language enthusiast with nearly eleven years of experience in the exciting field of ESL/EFL/TESOL education. Having dedicated myself to teaching English as a second language, I've honed my skills in crafting engaging curricula and fostering effective learning environments. However, my insatiable curiosity and love for technology have led me on an exciting transition into the realm of frontend web development and edtech software engineering.
+I'm a passionate language enthusiast with nearly twelve years of experience in the exciting field of English education. Having dedicated myself to teaching, I've honed my skills in crafting engaging curricula and fostering effective learning environments. However, my curiosity and love for technology have led me to transition into front-end web development and tech.
 
 ## 🚀 Transitioning into Tech
-As I embark on this new journey, I'm thrilled to combine my expertise in language instruction with my newfound skills in coding and software development. My goal is to create innovative and user-friendly educational tools that empower learners worldwide, breaking down language barriers and fostering a love for learning in the digital age.
+On this new journey, I'm thrilled to combine my expertise in English instruction with my newfound skills in coding, software development, and information technology. My goal is simple - to design, create, and maintain.
 
 ## 💻 Tech Stack & Skills
 Frontend development has become my playground, and I thrive on:
@@ -16,14 +16,15 @@ Frontend development has become my playground, and I thrive on:
 
 My backend skills include:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20" /> Python
+- <img src="https://pics.freeicons.io/uploads/icons/png/203945761548330730-64.png" alt="SQL" width="20" height="20" /> SQL
 
 ## 📚 Continuous Learning
-As an avid lifelong learner, I embrace challenges and stay up to date with the latest trends in frontend development, edtech, and language learning. I actively participate in coding communities, attend webinars, and contribute to open-source projects to grow both personally and professionally.
+As an avid lifelong learner, I embrace challenges and stay up to date with the latest trends in front-end development, IT, and cyber security. I actively work on personal coding projects that challenge and teach me, create useful sites for friends, maintain and build tech around me, and am up-to-date on cyber security breaches, frameworks, and practices. 
 
 ## 🌍 Let's Connect
 I'm excited to connect with like-minded individuals, collaborators, and potential employers who share my passion for leveraging technology to enhance education and create meaningful experiences. Whether it's discussing new project ideas or exploring opportunities, feel free to reach out to me!
 
 ## 📫 Contact Me
-You can reach me at d.tacoronte89@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/davidtacoronte/).
+You can reach me at <a href="mailto:d.tacoronte89@gmail.com?subject=Github Inquiry">d.tacoronte89@gmail.com</a>
 
-Let's build a better, more inclusive world through the power of technology and education! 🌍✨
+Let's build a better world through the power of technology and education! 
